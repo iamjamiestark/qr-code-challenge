@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/qr-code-challenge/static/css/main.ea5b3a10.css",
-    "main.js": "/qr-code-challenge/static/js/main.28edda97.js",
+    "main.css": "/qr-code-challenge/static/css/main.0ac676ec.css",
+    "main.js": "/qr-code-challenge/static/js/main.710fa59a.js",
     "static/js/787.cc137750.chunk.js": "/qr-code-challenge/static/js/787.cc137750.chunk.js",
     "index.html": "/qr-code-challenge/index.html",
-    "main.ea5b3a10.css.map": "/qr-code-challenge/static/css/main.ea5b3a10.css.map",
-    "main.28edda97.js.map": "/qr-code-challenge/static/js/main.28edda97.js.map",
+    "main.0ac676ec.css.map": "/qr-code-challenge/static/css/main.0ac676ec.css.map",
+    "main.710fa59a.js.map": "/qr-code-challenge/static/js/main.710fa59a.js.map",
     "787.cc137750.chunk.js.map": "/qr-code-challenge/static/js/787.cc137750.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea5b3a10.css",
-    "static/js/main.28edda97.js"
+    "static/css/main.0ac676ec.css",
+    "static/js/main.710fa59a.js"
   ]
 }
